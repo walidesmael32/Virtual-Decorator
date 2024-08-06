@@ -16,7 +16,7 @@ struct ContentView: View {
                     await refreshImmersiveSpace()
                 }
             }) {
-                Text("Refresh")
+                Text("Refreshhh")
                     .font(.title)
                     .frame(width: 360)
                     .padding(24)
